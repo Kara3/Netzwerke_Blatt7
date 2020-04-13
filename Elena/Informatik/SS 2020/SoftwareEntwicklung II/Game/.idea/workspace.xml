@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24da3ac4-bacf-4786-a7df-621fcdfa88a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/powergrid/src/edu/hm/cs/rs/powergrid/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/powergrid/src/edu/hm/cs/rs/powergrid/Bag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/powergrid/test/edu/hm/karius/tobias/powergrid/datastore/GameBoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/powergrid/test/edu/hm/karius/tobias/powergrid/GameBoardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/powergrid/test/edu/hm/karius/tobias/powergrid/datastore/GameCityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/powergrid/test/edu/hm/karius/tobias/powergrid/GameCityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/powergrid/test/edu/hm/karius/tobias/powergrid/datastore/GameFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/powergrid/test/edu/hm/karius/tobias/powergrid/GameFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/powergrid/test/edu/hm/karius/tobias/powergrid/datastore/GamePlantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/powergrid/test/edu/hm/karius/tobias/powergrid/GamePlantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/powergrid/test/edu/hm/karius/tobias/powergrid/datastore/GamePlayerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/powergrid/test/edu/hm/karius/tobias/powergrid/GamePlayerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/powergrid" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aFjmU54nCG4mmChUzZ1Kgc0tTU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Software Architektur/GitLab" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.hm.karius.tobias.powergrid" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ElenaBagTest">
+    <configuration name="ElenaBagTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hm.karius.tobias.powergrid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hm.karius.tobias.powergrid" />
+      <option name="MAIN_CLASS_NAME" value="edu.hm.karius.tobias.powergrid.ElenaBagTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElenaBagTest.testIteratorIntegers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hm.karius.tobias.powergrid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hm.karius.tobias.powergrid" />
+      <option name="MAIN_CLASS_NAME" value="edu.hm.karius.tobias.powergrid.ElenaBagTest" />
+      <option name="METHOD_NAME" value="testIteratorIntegers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElenaBagTest.testNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hm.karius.tobias.powergrid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hm.karius.tobias.powergrid" />
+      <option name="MAIN_CLASS_NAME" value="edu.hm.karius.tobias.powergrid.ElenaBagTest" />
+      <option name="METHOD_NAME" value="testNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElenaBagTest.testSizeNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hm.karius.tobias.powergrid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hm.karius.tobias.powergrid" />
+      <option name="MAIN_CLASS_NAME" value="edu.hm.karius.tobias.powergrid.ElenaBagTest" />
+      <option name="METHOD_NAME" value="testSizeNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmokeBagTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.hm.cs.rs.powergrid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.hm.cs.rs.powergrid" />
+      <option name="MAIN_CLASS_NAME" value="edu.hm.cs.rs.powergrid.SmokeBagTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ElenaBagTest" />
+        <item itemvalue="JUnit.SmokeBagTest" />
+        <item itemvalue="JUnit.ElenaBagTest.testIteratorIntegers" />
+        <item itemvalue="JUnit.ElenaBagTest.testNull" />
+        <item itemvalue="JUnit.ElenaBagTest.testSizeNull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24da3ac4-bacf-4786-a7df-621fcdfa88a0" name="Default Changelist" comment="" />
+      <created>1586338395486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586338395486</updated>
+      <workItem from="1586338400003" duration="31176000" />
+      <workItem from="1586596787197" duration="2546000" />
+    </task>
+    <task id="LOCAL-00001" summary="removed equals from GameCity">
+      <created>1586338722413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586338722413</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Checkstyle for Abgabe_2">
+      <created>1586339341464</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586339341464</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Checkstyle for Abgabe_2">
+      <created>1586339491226</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586339491226</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed equals from GameCity" />
+    <MESSAGE value="Checkstyle for Abgabe_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Checkstyle for Abgabe_2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser" timestamp="1586372556183">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1586372556183" />
+    <state x="345" y="24" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1586444362969">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="345" y="24" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1280.680@0.0.1280.680" timestamp="1586444362969" />
+    <state x="371" y="88" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586427425612">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1280.680@0.0.1280.680" timestamp="1586427425612" />
+    <state x="403" y="29" width="844" height="651" key="CommitChangelistDialog2" timestamp="1586339490101">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="403" y="29" width="844" height="651" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1586339490101" />
+    <state width="1237" height="217" key="GridCell.Tab.0.bottom" timestamp="1586626473782">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="217" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586626473782" />
+    <state width="1237" height="217" key="GridCell.Tab.0.center" timestamp="1586626473780">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="217" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586626473780" />
+    <state width="1237" height="217" key="GridCell.Tab.0.left" timestamp="1586626473780">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="217" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586626473780" />
+    <state width="1237" height="217" key="GridCell.Tab.0.right" timestamp="1586626473781">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="217" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586626473781" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1586339493210">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1586339493210" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1586596809875">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586596809875" />
+    <state x="376" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586338498419">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="376" y="234" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.680@0.0.1280.680" timestamp="1586338498419" />
+    <state x="405" y="44" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586371289479">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="405" y="44" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1586371289479" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586370004282">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586370004282" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/powergrid/test/edu/hm/karius/tobias/powergrid/ElenaBagTest.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/powergrid/test/edu/hm/karius/tobias/powergrid/ElenaBagTest.java</url>
+          <line>192</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/powergrid/test/edu/hm/karius/tobias/powergrid/ElenaBagTest.java</url>
+          <line>154</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Game$ElenaBagTest.ic" NAME="ElenaBagTest Coverage Results" MODIFIED="1586606812440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.hm.karius.tobias.powergrid.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Game$ElenaBagTest_testConstructor.ic" NAME="ElenaBagTest.testConstructor Coverage Results" MODIFIED="1586445880677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.hm.karius.tobias.powergrid.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Game$ElenaBagTest_testSizeNull.ic" NAME="ElenaBagTest.testSizeNull Coverage Results" MODIFIED="1586446682380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>edu.hm.karius.tobias.powergrid.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
